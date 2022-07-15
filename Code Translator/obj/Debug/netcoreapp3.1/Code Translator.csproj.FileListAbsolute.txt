@@ -1,0 +1,64 @@
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.exe
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.deps.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.runtimeconfig.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.runtimeconfig.dev.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.csproj.AssemblyReference.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code_Translator.mainForm.resources
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.csproj.GenerateResource.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.GeneratedMSBuildEditorConfig.editorconfig
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.AssemblyInfoInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.AssemblyInfo.cs
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.csproj.CoreCompileInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.genruntimeconfig.cache
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.exe
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.deps.json
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.runtimeconfig.json
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.runtimeconfig.dev.json
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.dll
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.pdb
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.csproj.AssemblyReference.cache
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code_Translator.mainForm.resources
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.csproj.GenerateResource.cache
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.AssemblyInfoInputs.cache
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.AssemblyInfo.cs
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.csproj.CoreCompileInputs.cache
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.dll
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.pdb
+D:\School\C# 1\Code Translator\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.genruntimeconfig.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.exe
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.deps.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.runtimeconfig.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.runtimeconfig.dev.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.csproj.AssemblyReference.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code_Translator.mainForm.resources
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.csproj.GenerateResource.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.GeneratedMSBuildEditorConfig.editorconfig
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.AssemblyInfoInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.AssemblyInfo.cs
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.csproj.CoreCompileInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Code Translator\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.genruntimeconfig.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.exe
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.deps.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.runtimeconfig.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.runtimeconfig.dev.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\bin\Debug\netcoreapp3.1\Code Translator.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.csproj.AssemblyReference.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code_Translator.mainForm.resources
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.csproj.GenerateResource.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.GeneratedMSBuildEditorConfig.editorconfig
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.AssemblyInfoInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.AssemblyInfo.cs
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.csproj.CoreCompileInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Code Translator\Code Translator\obj\Debug\netcoreapp3.1\Code Translator.genruntimeconfig.cache

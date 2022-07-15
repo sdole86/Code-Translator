@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D73y7S0yq3jCcAJ11YXg7fRn9jM1Dtcdz5f4RMa25BvVqkDodgBSG77lEteNlTmQJxoqiY83UljgKYGosgWTVw==",
+  "success": true,
+  "projectFilePath": "P:\\School\\2021-03 Fall\\CSCI 1630 - Introduction to C# Programming\\Unit H\\Code Translator\\Code Translator\\Code Translator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dole05\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
